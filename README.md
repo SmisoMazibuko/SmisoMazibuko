@@ -186,34 +186,56 @@
       </a>
       <br>G Cloud
     </td>
+     </tr>
+  <tr> 
      <td align="center" width="96"> 
       <a href="#smisomazibuko-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
       </a>
       <br>Rust
-    </td>
-     </tr>
-  <tr> 
-    <td align="center" width="96"> 
+    </td><td align="center" width="96"> 
       <a href="#smisomazibuko-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" style="max-width: 100%;">
       </a>
       <br>Unity
     </td><td align="center" width="96"> 
       <a href="#smisomazibuko-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
+        <img src="https://hardhat.org/favicon-32x32.png" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
       </a>
-      <br>Rust
+      <br>Hardhat
     </td><td align="center" width="96"> 
       <a href="#smisomazibuko-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
+        <img src="https://trufflesuite.com/img/truffle-logo-dark.svg" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
       </a>
-      <br>Rust
+      <br>Truffle
     </td><td align="center" width="96"> 
       <a href="#smisomazibuko-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
+        <img src="https://go.dev/images/go-logo-blue.svg" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
       </a>
-      <br>Rust
+      <br>Go
+    </td><td align="center" width="96"> 
+      <a href="#smisomazibuko-tech">
+        <img src="https://getfoundry.sh/logo.png" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
+      </a>
+      <br>Foundry
+    </td>
+   <td align="center" width="96"> 
+      <a href="#smisomazibuko-tech">
+        <img src="https://docs.ipfs.io/images/ipfs-logo.svg" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
+      </a>
+      <br>IPFS
+    </td>
+   <td align="center" width="96"> 
+      <a href="#smisomazibuko-tech">
+        <img src="https://kubernetes.io/images/kubernetes-192x192.png" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
+      </a>
+      <br>Kubernetes
+    </td>
+   <td align="center" width="96"> 
+      <a href="#smisomazibuko-tech">
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
+      </a>
+      <br>Docker
     </td>
   </tr>
 </tbody></table>
