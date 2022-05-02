@@ -1,16 +1,17 @@
 
  <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="left" id="user-content-smisomazibuko-title" dir="auto"><a id="user-content-wave-hello-there-im-Smiso" class="anchor" aria-hidden="true" href="#wave-hello-there-im-Smiso"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hello there Smiso</h1>
-<h3 align="left" dir="auto"><a id="user-content-i-am-a-software-developer-" class="anchor" aria-hidden="true" href="#i-am-a-software-developer-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>I am a Software Developer </h3>
+<h3 align="left" dir="auto"><a id="user-content-i-am-a-software-developer-" class="anchor" aria-hidden="true" href="#i-am-a-software-developer-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>I am a Software Developer | Financial Accountant | Auditor</h3>
 <a href="#Smiso-title">
   <img src="https://github-readme-stats.vercel.app/api?username=SmisoMazibuko&amp;show_icons=true&amp;theme=react&amp;count_private=true&amp;include_all_commits=truhttps://camo.githubusercontent.com/48f63084646e7bc2a375a394e472c927d5ed8d62388c3cc577d6cdf3328811e6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73756861696c6b616b61722673686f775f69636f6e733d74727565267468656d653d726561637426636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="Smiso" align="right" data-canonical-src="https://github-readme-stats.vercel.app/api?username=SmisoMazibuko&amp;show_icons=true&amp;theme=react&amp;count_private=true&amp;include_all_commits=true" style="max-width: 100%;">
 </a>
 <ul data-sourcepos="10:1-16:0" dir="auto">
- <li><g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji>  I regulary write article on my <strong><a href="http://smiso.xyz/" title="Blog" rel="nofollow">blog</a></strong></li>
-<li data-sourcepos="12:1-12:76"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>  I like to talk about <strong>Blockchains</strong> , <strong>Web 3.0</strong> and <strong>Defi</strong></li>
+ <li><g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji>  I regulary write articles on my <strong><a href="http://smiso.xyz/" title="Personal Website" rel="nofollow">blog</a></strong></li>
+<li data-sourcepos="12:1-12:76"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>  I like to about <strong>Blockchains</strong> , <strong>Web 3.0</strong> and <strong>Defi</strong></li>
  
 <li data-sourcepos="13:1-13:63"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>  Ask me about anything, I am happy to <strong>help</strong></li>
 <li data-sourcepos="14:1-14:52"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>  Connect with me on <strong><a href="https://www.linkedin.com/in/simisomazibuko" title="LinkedIn" rel="nofollow">LinkedIn</a></strong></li>
 <li data-sourcepos="15:1-16:0"><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">🐦</g-emoji>  Let's talk more in <strong><a href="https://twitter.com/Smisomazibuko" title="Twitter" rel="nofollow">Twitter</a></strong></li>
+ <li data-sourcepos="15:1-16:0"><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">🐦</g-emoji>  Let's talk more in <strong><a href="https://www.tiktok.com/@smiso.eth?lang=en" title="Tiktok" rel="nofollow">Tiktok</a></strong></li>
 </ul>
 <br>
 <h2 align="left" id="user-content-Smiso-tech" dir="auto"><a id="user-content-favorite-tech" class="anchor" aria-hidden="true" href="#favorite-tech"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Favorite Tech</h2>
@@ -184,6 +185,35 @@
         <img src="https://camo.githubusercontent.com/1823ddb4508f68ad6ae3993982ba87780ae5792503597e1471a9ea61e9f21fa5/68747470733a2f2f6272616e646570732e636f6d2f6c6f676f2d646f776e6c6f61642f472f476f6f676c652d436c6f75642d6c6f676f2d766563746f722d30312e737667" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
       </a>
       <br>G Cloud
+    </td>
+     <td align="center" width="96"> 
+      <a href="#smisomazibuko-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
+      </a>
+      <br>Rust
+    </td>
+     </tr>
+  <tr> 
+    <td align="center" width="96"> 
+      <a href="#smisomazibuko-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" style="max-width: 100%;">
+      </a>
+      <br>Unity
+    </td><td align="center" width="96"> 
+      <a href="#smisomazibuko-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
+      </a>
+      <br>Rust
+    </td><td align="center" width="96"> 
+      <a href="#smisomazibuko-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
+      </a>
+      <br>Rust
+    </td><td align="center" width="96"> 
+      <a href="#smisomazibuko-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="48" height="48" alt="Google Cloud" data-canonical-src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" style="max-width: 100%;">
+      </a>
+      <br>Rust
     </td>
   </tr>
 </tbody></table>
