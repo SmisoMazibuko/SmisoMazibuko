@@ -6,7 +6,7 @@
 </a>
 <ul data-sourcepos="10:1-16:0" dir="auto">
  <li><g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji>  I regulary write articles on my <strong><a href="http://smiso.xyz/" title="Personal Website" rel="nofollow">blog</a></strong></li>
-<li data-sourcepos="12:1-12:76"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>  I like to about <strong>Blockchains</strong> , <strong>Web 3.0</strong> and <strong>Defi</strong></li>
+<li data-sourcepos="12:1-12:76"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>  I like to talk about <strong>Blockchains</strong> , <strong>Web 3.0</strong>, <strong>Defi</strong></li>, <strong>Cloud</strong></li> and <strong> Artificial Intelligence</strong></li>
  
 <li data-sourcepos="13:1-13:63"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>  Ask me about anything, I am happy to <strong>help</strong></li>
 <li data-sourcepos="14:1-14:52"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>  Connect with me on <strong><a href="https://www.linkedin.com/in/simisomazibuko" title="LinkedIn" rel="nofollow">LinkedIn</a></strong></li>
